@@ -1,0 +1,42 @@
+/*navbar code and media queries*/
+.container-fluid {
+   
+    padding: 20px 20px;
+    margin-left: 10px;
+    
+}
+
+.navbar-brand {
+
+font-family: 'Quicksand';
+
+}
+
+a.navbar-brand {
+    padding-right: 50%;
+    padding-left: 1%;
+    font-size: 24px;
+    font-family: 'Quicksand';
+}
+
+.nav-item a:hover {
+
+    color: #53b1fe;
+
+}
+
+.nav-link a:hover {
+
+    
+}
+
+/*trying to make the image spin*/
+.imgspin {
+    margin-left: 5%;
+}
+
+#myImage {
+    width: 50px;
+    height:  50px;
+}
+/*trying to make the image spin*/
